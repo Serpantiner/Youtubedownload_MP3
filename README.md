@@ -1,4 +1,4 @@
-Simpled Youtube downloader scuripts that allows you to download Videos in the MP3 format
+Simple Youtube downloader scuripts that allows you to download Videos in the MP3 format
 
 The functionality is simple and convenient, you can put a link to a video that you want to download in the mp3 format, copy the path to the folder where you want the mp3 track to be saved and press "Download button"
 You can also put multiple links in the download window, the app will automatically download whatever amount of videos you request.
